@@ -27,6 +27,8 @@ organized? How would branches help?
 	while other people are working on other parts of the project.
 
 How do the diagrams help you visualize the branch structure?
+	
+	They make it easy to see where branches were made and whether they were merged to master.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
